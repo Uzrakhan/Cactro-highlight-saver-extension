@@ -1,0 +1,17 @@
+.highlightSaverPopup {
+  background: white;
+  border: 1px solid #ddd;
+  padding: 6px;
+  border-radius: 6px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.2);
+  z-index: 9999999;
+}
+
+#saveHighlightBtn {
+  padding: 5px 8px;
+  background: #007bff;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
